@@ -1,0 +1,7 @@
+INFO:root:this is feb6 assigment
+INFO:root:[1, 2, 3, 4, 44, 55, 66, 34, 56, 78, 89, 34, 1, 2, 3, 1, 4, 34, 55, 67, 78, 89, 45, 22, 61, 34, 56]
+INFO:root:4134711838987085478833841242112000
+INFO:root:4134711838987085478833841242112000
+INFO:root:i$wznt$to$yexome$z$dztz$sxientist.
+INFO:root:this is second question answer
+INFO:root:i$wznt$to$yexome$z$dztz$sxientist.
